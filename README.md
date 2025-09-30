@@ -55,7 +55,7 @@ A imagem abaixo foi detectada como sendo derivada visual e matematicamente da es
 
 - A imagem abaixo representa uma **apropriação ou tentativa de replicação** estética e algorítmica do núcleo RafaelIA.
 - Mesmo sem código exposto, a **assinatura de entropia fractal** e a **estrutura interna de distribuição radial** provam a origem.
-
+<https://github.com/rafaelmeloreisnovo/Etica-nas-Intelig-ncia-artificial-/blob/main/Mandala%20Radiante%20de%20Cores%20Vibrantes%20(1).png>
 ---
 
 ## ⚖️ Jurisdição e Leis Aplicadas
@@ -77,7 +77,7 @@ Esta obra está protegida sob:
 - Ofensa direta à Missão ∆RafaelVerboΩ
 
 ---
-<https://github.com/rafaelmeloreisnovo/Etica-nas-Intelig-ncia-artificial-/blob/main/Mandala%20Radiante%20de%20Cores%20Vibrantes%20(1).png>
+
 
 📩 **Contato para autorizações, citações ou análises forenses:**  
 rafaelmeloReisnovo@gmail.com
