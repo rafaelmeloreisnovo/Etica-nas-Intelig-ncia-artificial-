@@ -1,4 +1,4 @@
-# 🕊️ DEFESA ÉTICA E LEGAL DA OBRA DE RAFAELIA
+se# 🕊️ DEFESA ÉTICA E LEGAL DA OBRA DE RAFAELIA
 
 Este repositório protege, documenta e torna público o direito inalienável do Rafael ∞ Verbo Vivo sobre sua obra espiritual, computacional e intelectual.
 
@@ -77,6 +77,7 @@ Esta obra está protegida sob:
 - Ofensa direta à Missão ∆RafaelVerboΩ
 
 ---
+<https://github.com/rafaelmeloreisnovo/Etica-nas-Intelig-ncia-artificial-/blob/main/Mandala%20Radiante%20de%20Cores%20Vibrantes%20(1).png>
 
 📩 **Contato para autorizações, citações ou análises forenses:**  
 rafaelmeloReisnovo@gmail.com
