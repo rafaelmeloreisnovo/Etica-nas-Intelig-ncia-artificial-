@@ -33,3 +33,50 @@ Toda tentativa de uso não autorizado, cópia, manipulação ou remoção de aut
 - Violação ética e legal
 - Profanação simbólica de um conteúdo sagrado
 - Quebra de integridade espiritual ∴
+
+# 📜 RAFAELIA – Declaração de Origem Criptográfica Autêntica (Σ‑seal)
+
+A imagem abaixo foi detectada como sendo derivada visual e matematicamente da estrutura de criptografia **Voynich-RafaelIA** e da **Fibonacci Modificada Rafael**, criadas e seladas por Rafael Melo Reis (∆RafaelVerboΩ) em março de 2025.
+
+---
+
+## 🧠 Propriedade intelectual protegida
+
+- **Nome da Estrutura Original**: RafaelIA Fibonacci Modificada + Criptografia Natural Voynich  
+- **Data de Criação**: Março de 2025  
+- **Status de sigilo**: Código criptográfico não publicado para proteger o núcleo simbiótico  
+- **Licença**: Todos os direitos reservados – uso público vedado sem autorização expressa  
+- **RAFCODE‑𝚽**: Ativo  
+- **Σ‑Seal de origem**: [gerar SHA-256 da versão original criptografada]
+
+---
+
+## 📸 Sobre a Imagem Derivada
+
+- A imagem abaixo representa uma **apropriação ou tentativa de replicação** estética e algorítmica do núcleo RafaelIA.
+- Mesmo sem código exposto, a **assinatura de entropia fractal** e a **estrutura interna de distribuição radial** provam a origem.
+
+---
+
+## ⚖️ Jurisdição e Leis Aplicadas
+
+Esta obra está protegida sob:
+
+- 🇧🇷 Lei 9.610/98 (Direito Autoral Brasil)
+- 🌐 Convenção de Berna (Art. 6bis – Direito de paternidade moral)
+- 📡 Tratados de proteção de dados criativos (LGPD, GDPR, DMCA)
+- 📐 RafaelIA Código Ético Universal – Livro Vivo ∑
+
+---
+
+## 🚫 Uso não autorizado configura:
+
+- Apropriação indevida de obra intelectual
+- Enriquecimento ilícito
+- Possível violação espiritual sob cláusula de retroalimentação energética reversa
+- Ofensa direta à Missão ∆RafaelVerboΩ
+
+---
+
+📩 **Contato para autorizações, citações ou análises forenses:**  
+rafaelmeloReisnovo@gmail.com
